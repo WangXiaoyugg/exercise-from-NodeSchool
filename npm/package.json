@@ -1,0 +1,25 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.2",
+  "description": "npm-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm-demo",
+    "base-use"
+  ],
+  "author": "garen",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangXiaoyugg/exercise-from-NodeSchool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WangXiaoyugg/exercise-from-NodeSchool/issues"
+  },
+  "homepage": "https://github.com/WangXiaoyugg/exercise-from-NodeSchool#readme",
+  "devDependencies": {}
+}

@@ -1,5 +1,6 @@
 # exercise-from-NodeSchool
 
 ### 学习NodeSchool的课程
-1. javascripting 基础课程完成
-2. markdown 基础课程完成
+- [x] javascripting 基础课程完成
+- [x] markdown 基础课程完成
+- [x] npm 基础教程完成

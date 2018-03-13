@@ -2,3 +2,4 @@
 
 ### 学习NodeSchool的课程
 1. javascripting 基础课程完成
+2. markdown 基础课程完成
